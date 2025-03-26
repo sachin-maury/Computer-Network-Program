@@ -19,6 +19,7 @@ import java.io.*;
  str="Welcome to network programming world";
  out.println(str);
 System.out.println(dis.readLine());
+
  t2=System.currentTimeMillis();
  System.out.println(";TTL="+(t2-t1)+"ms");
  c++;
